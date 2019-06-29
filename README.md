@@ -1,1 +1,1 @@
-input of IP and a-bic
+input of IP and combine bic and aic with a parameter a
