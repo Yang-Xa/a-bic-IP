@@ -6,4 +6,4 @@ where：输出文件的位置
 m：max parent number
 
 编译：
-gcc main.c -o a.exe or gcc re_main.c -o a.exe
+gcc main.c -o a.exe or gcc bin_main.c -o a.exe
