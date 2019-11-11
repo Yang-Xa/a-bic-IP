@@ -1,0 +1,10 @@
+usage: ./main inputfile_data inputfile_parSet alpha saveWhere maxParent
+
+inputfile_data	数据文件
+inputfile_parSet	父集候选文件，参考本文件夹下的parSet.txt文件
+alpha		a-bic中a的值， 0.0~1.0
+saveWhere	生成文件的保存位置
+maxParent	最大父节点个数，>0
+
+example：a.exe input.txt parSet.txt 0.3 ./tmp.txt 10
+			
