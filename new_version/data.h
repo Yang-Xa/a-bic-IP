@@ -10,7 +10,6 @@ typedef struct Data{
     char** varNames;
 }Data;
 
-
 //candidate parent set
 typedef struct parCan{
     int ** parentCan;
