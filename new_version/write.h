@@ -81,6 +81,8 @@ int writeConstran(int learn_node, constran* Group[], int n, char* where){
         }
     }
 
+	fclose(wf);
+	return 1;
 }
 
 int SaveNode(Save* s, int learn_node, int Pcount, char* where){
